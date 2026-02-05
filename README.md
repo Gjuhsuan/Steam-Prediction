@@ -3,5 +3,3 @@
 
 ## 资源
 [数据集](https://tianchi.aliyun.com/dataset/130516)
-
-在 ML 里面下载了 conda install lightgbm
